@@ -104,6 +104,8 @@ namespace CardGames.Database
         }
 
         #endregion
-        }
+        
     }
+    
 }
+
