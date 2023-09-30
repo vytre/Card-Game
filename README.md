@@ -28,7 +28,7 @@ Each side is dealt a deck of 26 sorted cards. Both participants draw and reveal 
 
 In the event of a tie, a "War" is declared. Here, both players draw three cards face-down, followed by a fourth card face-up. The participant with the higher fourth card wins, taking all ten cards (5 from the opponent and 5 of their own) and placing them at the bottom of their deck.
 
-The game continues until one player has all the cards. A player who does not have enough cards left to complete a war round will lose.
+The game continues until one player has all the cards or if one player reaches 50 points. A player who does not have enough cards left to complete a war round will lose.
 
 ![alt text](https://i.gyazo.com/309c9d9c1600d3ab71e9d43496d180f5.png)
 ![alt text](https://i.gyazo.com/30225a615c4802fea31a9cc3f3be3c56.png)
